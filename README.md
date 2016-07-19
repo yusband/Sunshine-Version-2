@@ -10,6 +10,8 @@ This is the second version of the Sunshine code. The repository has been updated
 * **February 13th, 2015** - Major update
 * February 25, 2015 - Minor bug fixes
 * March 4th, 2015 - Minor bug fixes
+* 
+*
 
 For the original version, please go [here](https://github.com/udacity/Sunshine).
 
